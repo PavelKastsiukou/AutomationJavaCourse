@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Test4">
+        <classes>
+            <class name="PVTcourses.App2Test"/>
+
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="PVTcourses.App1Test"/>
+
+        </classes>
+    </test>
+    <test name="Test1">
+        <classes>
+            <class name="PVTcourses.App3Test"/>
+
+        </classes>
+    </test>
+    <test name="Test3">
+        <classes>
+            <class name="PVTcourses.App4Test"/>
+
+        </classes>
+    </test>
+    <test name="Test5">
+        <classes>
+            <class name="PVTcourses.App5Test"/>
+
+        </classes>
+    </test>
+    <test name="Test6">
+        <classes>
+            <class name="PVTcourses.App6Test"/>
+
+        </classes>
+    </test>
+
+    <test name="Test7">
+        <classes>
+            <class name="PVTcourses.App7Test"/>
+
+        </classes>
+    </test>
+    <test name="Test8">
+        <classes>
+            <class name="PVTcourses.App8Test"/>
+
+        </classes>
+    </test>
+    <test name="Test9">
+        <classes>
+            <class name="PVTcourses.App9Test"/>
+
+        </classes>
+    </test>
+    <test name="Test10">
+        <classes>
+            <class name="PVTcourses.AppTest"/>
+
+        </classes>
+    </test>
+        </suite>
