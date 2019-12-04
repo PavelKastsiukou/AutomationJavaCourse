@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Test4">
+        <classes>
+            <class name="StringOperation1Test"/>
+
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="StringOperation2Test"/>
+        </classes>
+    </test>
+    <test name="Test1">
+        <classes>
+            <class name="StringOperation3Test"/>
+
+        </classes>
+    </test>
+    <test name="Test3">
+        <classes>
+            <class name="StringOperationTest"/>
+
+        </classes>
+    </test>
+    <test name="Test5">
+        <classes>
+            <class name="StringOperationsTest"/>
+
+        </classes>
+    </test>
+    <test name="Test6">
+        <classes>
+            <class name="MathTest"/>
+
+        </classes>
+    </test>
+</suite>
