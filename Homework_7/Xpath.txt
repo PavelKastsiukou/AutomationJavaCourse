@@ -1,0 +1,14 @@
+//a[@id='ph_my']/span = Мой мир
+//a[@id='PH_projectsMenu_button']/i[@class='x-ph__menu__button__text'] = Все проекты
+//a[@data-name='pictures'] = Картинки
+//label[@class='search__icon'] = Иконка поиска
+//input[@id='search:submit'] = Кнопка найти
+//a[@href='//lady.mail.ru/'] = Леди
+//*[@id='cal'] = календарь
+//*[@id='tabs:dropdown-container']/span = 3 точки
+//input[@placeholder='Имя ящика'] = Имя ящика
+//*[@id='save:row']/label = Чекбокс "Запомнить"
+//a[@href='http://agent.mail.ru/'] = Вместо ICQ
+//*[@class='tabs__content']/div/div/div/a[@href='//sportmail.ru'] = Спорт
+(//a[@href='https://news.mail.ru/currency/'])[1] = Курсы доллара
+//a[@id='PH_regLink'] = Регистрация
