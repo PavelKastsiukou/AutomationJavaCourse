@@ -23,10 +23,10 @@ public class MailRuTest {
 
     @Test
     public void loginTest() {
-        mailRu.enterLogin("blue_wind");
+        mailRu.enterLogin("some_login");
         mailRu.select();
         mailRu.clickLoginButton();
-        mailRu.enterPass("gomel85pn");
+        mailRu.enterPass("some_pass");
         mailRu.clickLoginButton();
     }
 
